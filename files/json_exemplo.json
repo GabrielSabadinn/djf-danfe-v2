@@ -1,0 +1,547 @@
+{
+ "nfeProc": {
+  "_attributes": {
+   "versao": "4.00",
+   "xmlns": "http://www.portalfiscal.inf.br/nfe"
+  },
+  "NFe": {
+   "_attributes": {
+    "xmlns": "http://www.portalfiscal.inf.br/nfe"
+   },
+   "infNFe": {
+    "_attributes": {
+     "versao": "4.00",
+     "Id": "NFe43230520491112000442550030000892971501676091"
+    },
+    "ide": {
+     "cUF": {
+      "_text": "43"
+     },
+     "cNF": {
+      "_text": "50167609"
+     },
+     "natOp": {
+      "_text": "Venda Veiculos Novos-Subst.Tributaria"
+     },
+     "mod": {
+      "_text": "55"
+     },
+     "serie": {
+      "_text": "3"
+     },
+     "nNF": {
+      "_text": "89297"
+     },
+     "dhEmi": {
+      "_text": "2023-05-08T11:07:41-03:00"
+     },
+     "tpNF": {
+      "_text": "1"
+     },
+     "idDest": {
+      "_text": "1"
+     },
+     "cMunFG": {
+      "_text": "4314902"
+     },
+     "tpImp": {
+      "_text": "1"
+     },
+     "tpEmis": {
+      "_text": "1"
+     },
+     "cDV": {
+      "_text": "1"
+     },
+     "tpAmb": {
+      "_text": "1"
+     },
+     "finNFe": {
+      "_text": "1"
+     },
+     "indFinal": {
+      "_text": "1"
+     },
+     "indPres": {
+      "_text": "1"
+     },
+     "indIntermed": {
+      "_text": "0"
+     },
+     "procEmi": {
+      "_text": "0"
+     },
+     "verProc": {
+      "_text": "NBS 01.013"
+     }
+    },
+    "emit": {
+     "CNPJ": {
+      "_text": "20491112000442"
+     },
+     "xNome": {
+      "_text": "SCHONSTATT VEICULOS LTDA."
+     },
+     "xFant": {
+      "_text": "BMW - IESA TARSO"
+     },
+     "enderEmit": {
+      "xLgr": {
+       "_text": "AVENIDA SENADOR TARSO DUTRA"
+      },
+      "nro": {
+       "_text": "295"
+      },
+      "xBairro": {
+       "_text": "PETROPOLIS"
+      },
+      "cMun": {
+       "_text": "4314902"
+      },
+      "xMun": {
+       "_text": "PORTO ALEGRE"
+      },
+      "UF": {
+       "_text": "RS"
+      },
+      "CEP": {
+       "_text": "90690140"
+      },
+      "cPais": {
+       "_text": "1058"
+      },
+      "xPais": {
+       "_text": "BRASIL"
+      },
+      "fone": {
+       "_text": "5130253000"
+      }
+     },
+     "IE": {
+      "_text": "0963596209"
+     },
+     "IM": {
+      "_text": "27214729"
+     },
+     "CNAE": {
+      "_text": "4511101"
+     },
+     "CRT": {
+      "_text": "3"
+     }
+    },
+    "dest": {
+     "CNPJ": {
+      "_text": "08297075000198"
+     },
+     "xNome": {
+      "_text": "LEFISC EDITORA DE PUBLICACOES PERIODICAS LTDA"
+     },
+     "enderDest": {
+      "xLgr": {
+       "_text": "AVENIDA  TAPIACU"
+      },
+      "nro": {
+       "_text": "340"
+      },
+      "xCpl": {
+       "_text": "N/A"
+      },
+      "xBairro": {
+       "_text": "PASSO DAREIA"
+      },
+      "cMun": {
+       "_text": "4314902"
+      },
+      "xMun": {
+       "_text": "PORTO ALEGRE"
+      },
+      "UF": {
+       "_text": "RS"
+      },
+      "CEP": {
+       "_text": "91030080"
+      },
+      "cPais": {
+       "_text": "1058"
+      },
+      "xPais": {
+       "_text": "BRASIL"
+      },
+      "fone": {
+       "_text": "5199795695"
+      }
+     },
+     "indIEDest": {
+      "_text": "1"
+     },
+     "IE": {
+      "_text": "0963177338"
+     },
+     "email": {
+      "_text": "otancontabil@terra.com.br"
+     }
+    },
+    "det": {
+     "_attributes": {
+      "nItem": "1"
+     },
+     "prod": {
+      "cProd": {
+       "_text": "WBATA6104P9R74997"
+      },
+      "cEAN": {
+       "_text": "SEM GTIN"
+      },
+      "xProd": {
+       "_text": "X5 XDRIVE 45E M SPORT"
+      },
+      "NCM": {
+       "_text": "87033310"
+      },
+      "CEST": {
+       "_text": "0000000"
+      },
+      "indEscala": {
+       "_text": "S"
+      },
+      "cBenef": {
+       "_text": "RS052417"
+      },
+      "CFOP": {
+       "_text": "5405"
+      },
+      "uCom": {
+       "_text": "UN"
+      },
+      "qCom": {
+       "_text": "1.0000"
+      },
+      "vUnCom": {
+       "_text": "634754.0000000000"
+      },
+      "vProd": {
+       "_text": "634754.00"
+      },
+      "cEANTrib": {
+       "_text": "SEM GTIN"
+      },
+      "uTrib": {
+       "_text": "UN"
+      },
+      "qTrib": {
+       "_text": "1.0000"
+      },
+      "vUnTrib": {
+       "_text": "634754.0000000000"
+      },
+      "indTot": {
+       "_text": "1"
+      },
+      "veicProd": {
+       "tpOp": {
+        "_text": "1"
+       },
+       "chassi": {
+        "_text": "WBATA6104P9R74997"
+       },
+       "cCor": {
+        "_text": "475"
+       },
+       "xCor": {
+        "_text": "PRETO SAFIRA (M)"
+       },
+       "pot": {
+        "_text": "394"
+       },
+       "cilin": {
+        "_text": "2998"
+       },
+       "pesoL": {
+        "_text": "0.000"
+       },
+       "pesoB": {
+        "_text": "0.000"
+       },
+       "nSerie": {
+        "_text": "1"
+       },
+       "tpComb": {
+        "_text": "18"
+       },
+       "nMotor": {
+        "_text": "17647034"
+       },
+       "CMT": {
+        "_text": "2541"
+       },
+       "dist": {
+        "_text": "2975"
+       },
+       "anoMod": {
+        "_text": "2023"
+       },
+       "anoFab": {
+        "_text": "2023"
+       },
+       "tpPint": {
+        "_text": "N"
+       },
+       "tpVeic": {
+        "_text": "6"
+       },
+       "espVeic": {
+        "_text": "1"
+       },
+       "VIN": {
+        "_text": "N"
+       },
+       "condVeic": {
+        "_text": "1"
+       },
+       "cMod": {
+        "_text": "241418"
+       },
+       "cCorDENATRAN": {
+        "_text": "11"
+       },
+       "lota": {
+        "_text": "5"
+       },
+       "tpRest": {
+        "_text": "0"
+       }
+      }
+     },
+     "imposto": {
+      "ICMS": {
+       "ICMS60": {
+        "orig": {
+         "_text": "2"
+        },
+        "CST": {
+         "_text": "60"
+        },
+        "vBCSTRet": {
+         "_text": "689950.00"
+        },
+        "pST": {
+         "_text": "12.0000"
+        },
+        "vICMSSubstituto": {
+         "_text": "64652.98"
+        },
+        "vICMSSTRet": {
+         "_text": "18141.02"
+        }
+       }
+      },
+      "PIS": {
+       "PISNT": {
+        "CST": {
+         "_text": "04"
+        }
+       }
+      },
+      "COFINS": {
+       "COFINSNT": {
+        "CST": {
+         "_text": "04"
+        }
+       }
+      }
+     },
+     "infAdProd": {
+      "_text": "AUTOMOVEL MARCA: BMW |MODELO: X5 XDRIVE 45E M SPORT |CHASSI: WBATA6104P9R74997 |CILINDRADA: 2998 ||COMBUSTIVEL: GASOL/ELET |RENAVAN: 241418 |ANO FAB: 2023 MOD: 2023 COR: PRETO SAFIRA (M) |PORTAS: 5 LUGARES: 5 |NUMERO DO MOTOR: 17647034 | DI:2307486665  DATA: 18/04/2023 |BR: 1064966 |NFE ENTR. DA BMW DO BRASIL LTDA, Nr. 10267 DATA: 08/05/2023 11:03:06 |PORTO DE DESEMBARACO VITORIA/ES |"
+     }
+    },
+    "total": {
+     "ICMSTot": {
+      "vBC": {
+       "_text": "0.00"
+      },
+      "vICMS": {
+       "_text": "0.00"
+      },
+      "vICMSDeson": {
+       "_text": "0.00"
+      },
+      "vFCP": {
+       "_text": "0.00"
+      },
+      "vBCST": {
+       "_text": "0.00"
+      },
+      "vST": {
+       "_text": "0.00"
+      },
+      "vFCPST": {
+       "_text": "0.00"
+      },
+      "vFCPSTRet": {
+       "_text": "0.00"
+      },
+      "vProd": {
+       "_text": "634754.00"
+      },
+      "vFrete": {
+       "_text": "0.00"
+      },
+      "vSeg": {
+       "_text": "0.00"
+      },
+      "vDesc": {
+       "_text": "0"
+      },
+      "vII": {
+       "_text": "0.00"
+      },
+      "vIPI": {
+       "_text": "0.00"
+      },
+      "vIPIDevol": {
+       "_text": "0.00"
+      },
+      "vPIS": {
+       "_text": "0.00"
+      },
+      "vCOFINS": {
+       "_text": "0.00"
+      },
+      "vOutro": {
+       "_text": "0.00"
+      },
+      "vNF": {
+       "_text": "634754.00"
+      }
+     }
+    },
+    "transp": {
+     "modFrete": {
+      "_text": "9"
+     },
+     "vol": {
+      "qVol": {
+       "_text": "1"
+      }
+     }
+    },
+    "pag": {
+     "detPag": {
+      "tPag": {
+       "_text": "05"
+      },
+      "vPag": {
+       "_text": "634754.00"
+      }
+     }
+    },
+    "infAdic": {
+     "infCpl": {
+      "_text": "* DN: 41675 * *  ICMS JA RECOLHIDO POR ST - Veiculos automotores novosRICMS/RS AP II,S.III,X -AUTOMOVEIS * TPC-Tributado de Pis/Cofins, IPC-Isento de Pis/Cofins * VENDEDOR: Catia Borba CPF: 00055103090"
+     }
+    },
+    "infRespTec": {
+     "CNPJ": {
+      "_text": "02348447000181"
+     },
+     "xContato": {
+      "_text": "GERSON DA COSTA TEIXEIRA"
+     },
+     "email": {
+      "_text": "gerson@nbsi.com.br"
+     },
+     "fone": {
+      "_text": "6521284300"
+     }
+    }
+   },
+   "Signature": {
+    "_attributes": {
+     "xmlns": "http://www.w3.org/2000/09/xmldsig#"
+    },
+    "SignedInfo": {
+     "CanonicalizationMethod": {
+      "_attributes": {
+       "Algorithm": "http://www.w3.org/TR/2001/REC-xml-c14n-20010315"
+      }
+     },
+     "SignatureMethod": {
+      "_attributes": {
+       "Algorithm": "http://www.w3.org/2000/09/xmldsig#rsa-sha1"
+      }
+     },
+     "Reference": {
+      "_attributes": {
+       "URI": "#NFe43230520491112000442550030000892971501676091"
+      },
+      "Transforms": {
+       "Transform": [
+        {
+         "_attributes": {
+          "Algorithm": "http://www.w3.org/2000/09/xmldsig#enveloped-signature"
+         }
+        },
+        {
+         "_attributes": {
+          "Algorithm": "http://www.w3.org/TR/2001/REC-xml-c14n-20010315"
+         }
+        }
+       ]
+      },
+      "DigestMethod": {
+       "_attributes": {
+        "Algorithm": "http://www.w3.org/2000/09/xmldsig#sha1"
+       }
+      },
+      "DigestValue": {
+       "_text": "H2nsKKwiXbbZU/5OQPf6VN9sLpc="
+      }
+     }
+    },
+    "SignatureValue": {
+     "_text": "sxC9ncUlSS8+UmSrM3plF27Pq9sZfZ3EJ6M9VfAzaOY4kbo6rK+26QfpwprQ8yjJaOLjm07tXqLwcTKMIESwzNV4/B5Oc+7OD/kRVQ3QnUFMB1cSbO1uOw7KA3LJtB8Vu7Wyppat3VEVXIBjXBLLxtiw0DLUh+N46LxoKY2cYC5mBSirKqvHFb6D/MCk6MjKdKTi+VZSGRawf0iDHt6juwHRTTi6xxNxrp3rlTnpZPtlft+eFTib7uby8lhribRjHYbOTI9gp/cy7nO+JnP6xVJFavOxBxJfTtlQlW9WuQmJzQWoWamMoLAjMQKiYZ/PLye6PeqoCT+BoGIogZvk7A=="
+    },
+    "KeyInfo": {
+     "X509Data": {
+      "X509Certificate": {
+       "_text": "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"
+      }
+     }
+    }
+   }
+  },
+  "protNFe": {
+   "_attributes": {
+    "versao": "4.00",
+    "xmlns": "http://www.portalfiscal.inf.br/nfe"
+   },
+   "infProt": {
+    "tpAmb": {
+     "_text": "1"
+    },
+    "verAplic": {
+     "_text": "RS202304261131"
+    },
+    "chNFe": {
+     "_text": "43230520491112000442550030000892971501676091"
+    },
+    "dhRecbto": {
+     "_text": "2023-05-08T11:07:59-03:00"
+    },
+    "nProt": {
+     "_text": "143230101162133"
+    },
+    "digVal": {
+     "_text": "H2nsKKwiXbbZU/5OQPf6VN9sLpc="
+    },
+    "cStat": {
+     "_text": "100"
+    },
+    "xMotivo": {
+     "_text": "Autorizado o uso da NF-e"
+    }
+   }
+  }
+ }
+}
